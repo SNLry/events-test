@@ -163,7 +163,14 @@ body { font-family: Arial; max-width: 900px; margin: auto; }
     </div>
 </div>
 """
+    timestamp = datetime.now().strftime("%d.%m.%Y %H:%M")
 
+    html += f"""
+    <p style="font-size:12px;color:#999;text-align:center;margin-top:30px;">
+            🕒 Päivitetty: {timestamp}
+    </p>
+
+    """
     html += "</body></html>"
 
     with open("events_all.html", "w", encoding="utf-8") as f:
