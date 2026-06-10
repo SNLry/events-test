@@ -140,7 +140,7 @@ body { font-family: Arial; max-width: 900px; margin: auto; }
 </style>
 </head>
 <body>
-<h1>Kaikki tapahtumat</h1>
+<h1>Tulevat tapahtumat</h1>
 """
 
     for ev in events_sorted:
