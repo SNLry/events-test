@@ -24,6 +24,26 @@ body { font-family: Arial; }
     font-weight: 500;
     transition: 0.2s;
 }
+.all-events-button {
+    display: block;
+    margin: 30px auto 10px auto;
+    padding: 12px 20px;
+    background-color: #1e73be;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: 600;
+    width: fit-content;
+    transition: 0.2s;
+}
+
+.all-events-button:hover {
+    background-color: #155a96;
+    transform: translateY(-1px);
+}
+
 
 .button:hover {
     background-color: #155a96;
@@ -44,7 +64,7 @@ body { font-family: Arial; }
         <a href="https://www.suomisport.fi/events/8310c51e-71d3-4852-b777-045338aee0f0" target="_blank" class="button">Ilmoittaudu →</a>
     </div>
     <div>
-        <img src="https://via.placeholder.com/300x180?text=Ei+kuvaa" style="width:250px; border-radius:6px;" />
+        <img src="https://raw.githubusercontent.com/SNLry/events-test/main/default_kuva.png" style="width:250px; border-radius:6px;" />
     </div>
 </div>
 
@@ -57,7 +77,7 @@ body { font-family: Arial; }
         <a href="https://www.suomisport.fi/events/b1f68668-f0e4-4dc9-982e-c15d3f021588" target="_blank" class="button">Ilmoittaudu →</a>
     </div>
     <div>
-        <img src="https://via.placeholder.com/300x180?text=Ei+kuvaa" style="width:250px; border-radius:6px;" />
+        <img src="https://raw.githubusercontent.com/SNLry/events-test/main/default_kuva.png" style="width:250px; border-radius:6px;" />
     </div>
 </div>
 
@@ -74,6 +94,6 @@ body { font-family: Arial; }
     </div>
 </div>
 
-    <a href="events_all.html">Katso kaikki tapahtumat →</a>
+    <a href="events_all.html" class="all-events-button">Katso kaikki tapahtumat →</a>
 </body>
 </html>
