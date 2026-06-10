@@ -1,0 +1,1278 @@
+[
+  {
+    "eventId": 218734,
+    "name": "SNL maajoukkueleiri 7.-11.7.2025, Pajulahti",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-07-07T00:00:00.000Z",
+    "endDateTime": "2025-07-11T00:00:00.000Z",
+    "registrationStartDateTime": "2025-06-16T07:00:00.000Z",
+    "registrationEndDateTime": "2025-07-08T23:59:00.000Z",
+    "currentAttendeeCount": 16,
+    "maxAttendeeCount": 24,
+    "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
+    "locationDescription": "Pajulahti",
+    "locationCoordinates": {
+      "lat": 60.9694083,
+      "lon": 25.9419347
+    },
+    "uuid": "39c0fb58-7d52-4dd4-8847-5ddadb0cd073",
+    "priceInCents": 39500,
+    "productDiscounts": [],
+    "tags": [
+      "leiri"
+    ],
+    "purpose": "SPORTS",
+    "eventCategory": "Leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 222860,
+    "name": "SNL Läntisen alueen nyrkkeilyleiri 16.-17.8.2025",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-08-16T00:00:00.000Z",
+    "endDateTime": "2025-08-17T00:00:00.000Z",
+    "registrationStartDateTime": "2025-08-05T17:00:00.000Z",
+    "registrationEndDateTime": "2025-08-16T11:00:00.000Z",
+    "currentAttendeeCount": 25,
+    "maxAttendeeCount": 30,
+    "locationAddress": "37100 Nokia, Suomi",
+    "locationDescription": "Nuijamiestenie 9",
+    "locationCoordinates": {
+      "lat": 61.4803094,
+      "lon": 23.501203
+    },
+    "uuid": "fa1266cf-fa43-45f5-891c-34af1fc59072",
+    "priceInCents": 2000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 221485,
+    "name": "SNL II-tason tuomarikoulutus, Kuortane 23.-24.8.2025  PERUTTU",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-08-23T00:00:00.000Z",
+    "endDateTime": "2025-08-24T00:00:00.000Z",
+    "registrationStartDateTime": "2025-07-14T15:30:00.000Z",
+    "registrationEndDateTime": "2025-08-15T12:59:00.000Z",
+    "currentAttendeeCount": 1,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/9eda7e6c-9d60-46f1-88e4-a606f2913a2e_1752495486122?auto=compress%2Credeye%2Cformat&h=450&w=800&s=e8585ea875ccf04b5c1e54168f0f30bd",
+    "locationAddress": "63100 Kuortane, Suomi",
+    "locationDescription": "KuKun maja",
+    "locationCoordinates": {
+      "lat": 62.8069725,
+      "lon": 23.5068837
+    },
+    "uuid": "a59e6828-e694-4499-8728-eaa44e7f4767",
+    "priceInCents": 10000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "Tuomarikoulutus",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 222924,
+    "name": "SNL Leiripäivä aloitteleville nyrkkeilijöille 23.8.2025 Nokia PERUTTU",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-08-23T00:00:00.000Z",
+    "endDateTime": "2025-08-23T00:00:00.000Z",
+    "registrationStartDateTime": "2025-08-06T17:00:00.000Z",
+    "registrationEndDateTime": "2025-08-22T12:00:00.000Z",
+    "currentAttendeeCount": 6,
+    "maxAttendeeCount": 30,
+    "locationAddress": "37100 Nokia, Suomi",
+    "locationDescription": "Nuijamiestenie 9",
+    "locationCoordinates": {
+      "lat": 61.4803094,
+      "lon": 23.501203
+    },
+    "uuid": "0a235853-2d55-4dd1-adf4-c168c9b332e9",
+    "priceInCents": 2000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 223010,
+    "name": "SNL Leiripäivä aloitteleville nyrkkeilijöille 30.8.2025 Järvenpää",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-08-30T00:00:00.000Z",
+    "endDateTime": "2025-08-30T00:00:00.000Z",
+    "registrationStartDateTime": "2025-08-07T14:30:00.000Z",
+    "registrationEndDateTime": "2025-08-29T12:00:00.000Z",
+    "currentAttendeeCount": 15,
+    "maxAttendeeCount": 30,
+    "locationAddress": "Järvenpää, Suomi",
+    "locationDescription": "Vanha yhdystie 2",
+    "locationCoordinates": {
+      "lat": 60.4747894,
+      "lon": 25.0971051
+    },
+    "uuid": "8f7ebbef-5ac6-4f9d-919d-639299072cfb",
+    "priceInCents": 1000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 218626,
+    "name": "SNL Kuntonyrkkeilyohjaajien Diplomikurssi 13-14.9.2025, KOKKOLA PERUTTU",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-09-13T00:00:00.000Z",
+    "endDateTime": "2025-09-14T00:00:00.000Z",
+    "registrationStartDateTime": "2025-06-12T10:00:00.000Z",
+    "registrationEndDateTime": "2025-09-04T23:59:00.000Z",
+    "currentAttendeeCount": 1,
+    "maxAttendeeCount": 0,
+    "locationAddress": "Kaarlelankatu 6, 67100 Kokkola, Suomi",
+    "locationDescription": "KBT kokkolan sali ( Kokkolan Kamppailusali)",
+    "locationCoordinates": {
+      "lat": 63.83629140000001,
+      "lon": 23.1387124
+    },
+    "uuid": "a057f93f-d2bf-4e92-9223-eff9d1673408",
+    "priceInCents": 13000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "Diplomi",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 225125,
+    "name": "SNL II-tason tuomarikoulutus, Helsinki 27.-28.9.2025",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-09-27T00:00:00.000Z",
+    "endDateTime": "2025-09-28T00:00:00.000Z",
+    "registrationStartDateTime": "2025-08-22T16:30:00.000Z",
+    "registrationEndDateTime": "2025-09-25T12:00:00.000Z",
+    "currentAttendeeCount": 5,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/6d640bf9-bb5b-4ab1-8a88-c31afad07924_1755869209056?auto=compress%2Credeye%2Cformat&h=450&w=800&s=9d7b06b20958ae1d0bc57590e5c0f3eb",
+    "locationAddress": "Ratsastie 10, 00280 Helsinki, Suomi",
+    "locationDescription": "Ruskeasuon pallouluhalli",
+    "locationCoordinates": {
+      "lat": 60.1987791,
+      "lon": 24.9104875
+    },
+    "uuid": "b857637c-12b5-45d3-aec3-daab5ff49467",
+    "priceInCents": 10000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "Tuomarikoulutus",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 225123,
+    "name": "SNL I-luokan tuomarikoulutus Oulussa 4.-5.10.2025",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-10-04T00:00:00.000Z",
+    "endDateTime": "2025-10-05T00:00:00.000Z",
+    "registrationStartDateTime": "2025-08-22T15:30:00.000Z",
+    "registrationEndDateTime": "2025-09-28T23:59:00.000Z",
+    "currentAttendeeCount": 4,
+    "maxAttendeeCount": 0,
+    "locationAddress": "Tyrnäväntie 16, 90400 Oulu, Suomi",
+    "locationDescription": "Oulun Kamppailuklubi",
+    "locationCoordinates": {
+      "lat": 64.9937748,
+      "lon": 25.4578062
+    },
+    "uuid": "b715d98b-aee1-4fff-96a0-90999e3f37e1",
+    "priceInCents": 10000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "Tuomarikoulus",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 223442,
+    "name": "SNL Kuntonyrkkeilyn ohjaajakurssi KNOK su 12.10.2025, MIKKELI",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-10-12T00:00:00.000Z",
+    "endDateTime": "2025-10-12T00:00:00.000Z",
+    "registrationStartDateTime": "2025-08-11T14:30:00.000Z",
+    "registrationEndDateTime": "2025-10-05T23:59:00.000Z",
+    "currentAttendeeCount": 8,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/8f7e3be5-a401-439f-9b97-1ba8250f1beb_1754911686861?auto=compress%2Credeye%2Cformat&h=450&w=800&s=27efe3f07226f35307216f2c26d88ecb",
+    "locationAddress": "Suur-Savonkatu, 50100 Mikkeli, Suomi",
+    "locationDescription": "Mikkelin Nyrkkeilijöiden sali",
+    "locationCoordinates": {
+      "lat": 61.6856166,
+      "lon": 27.2595029
+    },
+    "uuid": "61a2ce33-15ff-4bd1-946c-57d7b3cadbb4",
+    "priceInCents": 12000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "KNOK",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 224688,
+    "name": "SNL Kuntonyrkkeilyn ohjaajakurssi KNOK la 18.10.2025, TURKU",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-10-18T00:00:00.000Z",
+    "endDateTime": "2025-10-18T00:00:00.000Z",
+    "registrationStartDateTime": "2025-08-20T12:00:00.000Z",
+    "registrationEndDateTime": "2025-10-16T14:00:00.000Z",
+    "currentAttendeeCount": 11,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/dabbb4f1-ee4c-43f7-8043-c3f207c59f02_1755680956440?auto=compress%2Credeye%2Cformat&h=450&w=800&s=fee6e10bef6e1d42a050c2294776b37f",
+    "locationAddress": "Vanha Hämeentie 29, 20540 Turku, Suomi",
+    "locationDescription": "Turun Jyryn sali",
+    "locationCoordinates": {
+      "lat": 60.45530600000001,
+      "lon": 22.3056623
+    },
+    "uuid": "c071a9b0-6834-45d5-b67b-fa98f34c7638",
+    "priceInCents": 12000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "KNOK",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 228164,
+    "name": "SNL Leiripäivä aloitteleville nyrkkeilijöille 19.10.2025 Kotka",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-10-19T11:00:00.000Z",
+    "endDateTime": "2025-10-19T18:00:00.000Z",
+    "registrationStartDateTime": "2025-10-07T15:00:00.000Z",
+    "registrationEndDateTime": "2025-10-17T12:00:00.000Z",
+    "currentAttendeeCount": 11,
+    "maxAttendeeCount": 30,
+    "locationAddress": "Mussalontie 428, 48310 Kotka, Suomi",
+    "locationDescription": "Kotkan Voimailijoiden sali",
+    "locationCoordinates": {
+      "lat": 60.46409479999999,
+      "lon": 26.8790235
+    },
+    "uuid": "bf2b79cf-5a2e-4224-8970-a6563f053f00",
+    "priceInCents": 2000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 228292,
+    "name": "SNL Nepsy-haasteet ja nyrkkeilyn ohjaaminen kurssi 15.11.2025, JÄRVENPÄÄ",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-11-15T11:00:00.000Z",
+    "endDateTime": "2025-11-15T15:00:00.000Z",
+    "registrationStartDateTime": "2025-10-09T12:30:00.000Z",
+    "registrationEndDateTime": "2025-11-14T12:00:00.000Z",
+    "currentAttendeeCount": 17,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/0845a7f4-5a28-4d34-a70d-91d81076c627_1760002636345?auto=compress%2Credeye%2Cformat&h=450&w=800&s=223a58a59006daf8910fa363b0ffc832",
+    "locationAddress": "Emalitehtaankatu 2, 04410 Järvenpää, Suomi",
+    "locationDescription": "Oiva Boxing sali",
+    "locationCoordinates": {
+      "lat": 60.4769269,
+      "lon": 25.087726
+    },
+    "uuid": "5cb24901-bc2c-4e49-a7ed-93fe70237443",
+    "priceInCents": 3000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "KNOK",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 224690,
+    "name": "SNL Vilperi-Box ohjaajakoulutus 16.11.2025, MIKKELI",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2025-11-16T00:00:00.000Z",
+    "endDateTime": "2025-11-16T00:00:00.000Z",
+    "registrationStartDateTime": "2025-08-20T12:00:00.000Z",
+    "registrationEndDateTime": "2025-11-11T12:00:00.000Z",
+    "currentAttendeeCount": 7,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/75260b1d-8e81-44ab-8f46-ceadf626487e_1755681262626?auto=compress%2Credeye%2Cformat&h=450&w=800&s=000a17d79da239d2b66eb2e6cc0d92f3",
+    "locationAddress": "Suur-Savonkatu 1-3, 50100 Mikkeli, Suomi",
+    "locationDescription": "Mikkelin Nyrkkeilijöiden sali",
+    "locationCoordinates": {
+      "lat": 61.68665399999999,
+      "lon": 27.2644456
+    },
+    "uuid": "e84c7edf-7616-4dd5-ac6b-f0e27f1f67c0",
+    "priceInCents": 6000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "Vilperi",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 229591,
+    "name": "SNL U19, U17, U15, ja U13 nuorten loppiaisleiri 1.-3.1.2026, Solvalla",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-01-01T00:00:00.000Z",
+    "endDateTime": "2026-01-03T00:00:00.000Z",
+    "registrationStartDateTime": "2025-11-14T12:30:00.000Z",
+    "registrationEndDateTime": "2026-01-03T23:59:00.000Z",
+    "currentAttendeeCount": 32,
+    "maxAttendeeCount": 40,
+    "locationAddress": "Nuuksiontie 82, 02820 Espoo, Suomi",
+    "locationDescription": "Solvallan Urheiluopisti",
+    "locationCoordinates": {
+      "lat": 60.2932372,
+      "lon": 24.5580414
+    },
+    "uuid": "4281ccda-fbff-4d3b-8247-e04f40c29671",
+    "priceInCents": 19500,
+    "productDiscounts": [
+      {
+        "id": 66107,
+        "discountType": "PRICE_STEP",
+        "name": "Yhden yön leiri",
+        "description": "Sis.majoituksen ja lakanat, ruokailut, harjoitukset.",
+        "priceInCents": 15500
+      }
+    ],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 229506,
+    "name": "SNL Kuntonyrkkeilyn ohjaajakurssi KNOK su 18.1.2026, PORVOO",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-01-18T00:00:00.000Z",
+    "endDateTime": "2026-01-18T00:00:00.000Z",
+    "registrationStartDateTime": "2025-11-12T12:00:00.000Z",
+    "registrationEndDateTime": "2026-01-11T23:59:00.000Z",
+    "currentAttendeeCount": 16,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/1754419b-ab63-4c8c-8ff9-2e1da87815c8_1762944845787?auto=compress%2Credeye%2Cformat&h=450&w=800&s=eaf186ded53f6631018a457164438ad5",
+    "locationAddress": "Laivurinkatu 35, 06100 Porvoo, Suomi",
+    "locationDescription": "Porvoon Urheiluhalli",
+    "locationCoordinates": {
+      "lat": 60.3898251,
+      "lon": 25.6740336
+    },
+    "uuid": "88eeba2b-e0e5-44e7-8278-2113939098db",
+    "priceInCents": 12000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "KNOK",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 234938,
+    "name": "SNL Maajoukkueharjoitukset 21.2.2026",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-02-21T12:30:00.000Z",
+    "endDateTime": "2026-02-21T15:30:00.000Z",
+    "registrationStartDateTime": "2026-02-13T18:00:00.000Z",
+    "registrationEndDateTime": "2026-02-21T12:45:00.000Z",
+    "currentAttendeeCount": 13,
+    "maxAttendeeCount": 50,
+    "imageUrl": "https://suomisport-images.imgix.net/event/3fa1c38f-9e86-45a7-bbfc-7a972d5cd402_1770997928563?auto=compress%2Credeye%2Cformat&h=450&w=800&s=db0dcc60968c4676a825d0b6fa364a5b",
+    "locationAddress": "Ruosilankuja 3, 00390 Helsinki, Suomi",
+    "locationDescription": "Savate Club Konala",
+    "locationCoordinates": {
+      "lat": 60.23632490000001,
+      "lon": 24.8601482
+    },
+    "uuid": "3ad5d2c8-8d8e-4b34-b357-fcc8fe96852f",
+    "priceInCents": 0,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 235472,
+    "name": "SNL Maajoukkueharjoitukset 28.2.2026",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-02-28T13:15:00.000Z",
+    "endDateTime": "2026-02-28T15:15:00.000Z",
+    "registrationStartDateTime": "2026-02-22T16:00:00.000Z",
+    "registrationEndDateTime": "2026-02-27T18:00:00.000Z",
+    "currentAttendeeCount": 31,
+    "maxAttendeeCount": 50,
+    "imageUrl": "https://suomisport-images.imgix.net/event/6e12cf26-8db2-4241-803c-0908df43f330_1771768932105?auto=compress%2Credeye%2Cformat&h=450&w=800&s=1c1f6abc163fab3528cbe33c659ffdf4",
+    "locationAddress": "Ruosilankuja 3, 00390 Helsinki, Suomi",
+    "locationDescription": "Savate Club Konala",
+    "locationCoordinates": {
+      "lat": 60.23632490000001,
+      "lon": 24.8601482
+    },
+    "uuid": "9ecbe056-5c21-4f78-9b50-0516131e940b",
+    "priceInCents": 0,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 235752,
+    "name": "SNL Elite Maajoukkueharjoitukset ja testit 7.3.2026",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-03-07T12:30:00.000Z",
+    "endDateTime": "2026-03-07T15:00:00.000Z",
+    "registrationStartDateTime": "2026-03-01T12:00:00.000Z",
+    "registrationEndDateTime": "2026-03-06T18:00:00.000Z",
+    "currentAttendeeCount": 3,
+    "maxAttendeeCount": 50,
+    "imageUrl": "https://suomisport-images.imgix.net/event/b524df02-0544-4a60-8248-23611fe43154_1772318235344?auto=compress%2Credeye%2Cformat&h=450&w=800&s=2ece192b34a04c990ff1980e02beee93",
+    "locationAddress": "Ruosilankuja 3, 00390 Helsinki, Suomi",
+    "locationDescription": "Savate Club Konala",
+    "locationCoordinates": {
+      "lat": 60.23632490000001,
+      "lon": 24.8601482
+    },
+    "uuid": "a31d1e56-0a77-4585-8eec-0a091c4dac69",
+    "priceInCents": 0,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 235390,
+    "name": "SNL II-tason tuomarikoulutus, 14.-15.3.2026 Pajulahti PERUTTU",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-03-14T00:00:00.000Z",
+    "endDateTime": "2026-03-15T00:00:00.000Z",
+    "registrationStartDateTime": "2026-02-20T09:00:00.000Z",
+    "registrationEndDateTime": "2026-03-14T23:59:00.000Z",
+    "currentAttendeeCount": 3,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/2d63d095-178c-4d1d-8803-289be263f801_1771571744724?auto=compress%2Credeye%2Cformat&h=450&w=800&s=9089ff0dca3b4ad4d9dafee7ff9a52af",
+    "locationAddress": "15560 Lahti, Suomi",
+    "locationDescription": "Pajulahden Urheiluopisto",
+    "locationCoordinates": {
+      "lat": 60.9688305,
+      "lon": 25.9374025
+    },
+    "uuid": "fc69cc82-a9eb-4976-8d76-25704b217b90",
+    "priceInCents": 10000,
+    "productDiscounts": [
+      {
+        "id": 69507,
+        "discountType": "PRICE_STEP",
+        "name": "Hinta MAJOITUKSELLA",
+        "description": "Hinta sisältää kurssin, sekä majoituksen 1hh",
+        "priceInCents": 20500
+      }
+    ],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "Tuomarikoulutus",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 236396,
+    "name": "SNL PM-kisoihin valmistava leiripäivä 21.3.",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-03-21T10:30:00.000Z",
+    "endDateTime": "2026-03-21T17:00:00.000Z",
+    "registrationStartDateTime": "2026-03-15T17:15:00.000Z",
+    "registrationEndDateTime": "2026-03-19T23:59:00.000Z",
+    "currentAttendeeCount": 7,
+    "maxAttendeeCount": 30,
+    "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
+    "locationDescription": "Kamppailuhalli",
+    "locationCoordinates": {
+      "lat": 60.9691787,
+      "lon": 25.9438608
+    },
+    "uuid": "1588e38d-e3ad-4be7-b83d-905f95036b57",
+    "priceInCents": 1390,
+    "productDiscounts": [],
+    "tags": [
+      "leiri"
+    ],
+    "purpose": "SPORTS",
+    "eventCategory": "Leiripäivä",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 237311,
+    "name": "SNL testiottelupäivä 4.4.2026",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-04-04T16:00:00.000Z",
+    "endDateTime": "2026-04-04T18:00:00.000Z",
+    "registrationStartDateTime": "2026-03-31T12:00:00.000Z",
+    "registrationEndDateTime": "2026-04-03T19:00:00.000Z",
+    "currentAttendeeCount": 13,
+    "maxAttendeeCount": 20,
+    "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
+    "locationDescription": "Kamppailuhalli",
+    "locationCoordinates": {
+      "lat": 60.9691787,
+      "lon": 25.9438608
+    },
+    "uuid": "b2fbaae0-1b9f-42f2-be07-a910485f88c5",
+    "priceInCents": 0,
+    "productDiscounts": [],
+    "tags": [
+      "leiri"
+    ],
+    "purpose": "SPORTS",
+    "eventCategory": "Leiripäivä",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 234525,
+    "name": "Kamppailulajien yhteinen senioriohjaajakoulutus 19.4.2026, Tuusula PERUTTU",
+    "sports": [],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-04-19T10:00:00.000Z",
+    "endDateTime": "2026-04-19T15:00:00.000Z",
+    "registrationStartDateTime": "2026-02-05T09:00:00.000Z",
+    "registrationEndDateTime": "2026-04-12T23:59:00.000Z",
+    "currentAttendeeCount": 6,
+    "maxAttendeeCount": 30,
+    "imageUrl": "https://suomisport-images.imgix.net/event/bacf21a5-6070-4ea5-9781-5eac64b9a96b_1770274298848?auto=compress%2Credeye%2Cformat&h=450&w=800&s=416152fdd731f645b8ffc53c405048c1",
+    "locationAddress": "Rykmentintie 47, 04300 Tuusula, Suomi",
+    "locationDescription": "Tuusulan Nyrkkeilyseuran sali",
+    "locationCoordinates": {
+      "lat": 60.3977398,
+      "lon": 25.0346831
+    },
+    "uuid": "b6364184-c4a4-4ba8-903c-0cc4aa1b0f3f",
+    "priceInCents": 6000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 234542,
+    "name": "SNL Kuntonyrkkeilyn ohjaajakurssi KNOK la 25.4.2026, Tampere",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-04-25T00:00:00.000Z",
+    "endDateTime": "2026-04-25T00:00:00.000Z",
+    "registrationStartDateTime": "2026-02-05T14:00:00.000Z",
+    "registrationEndDateTime": "2026-04-23T18:00:00.000Z",
+    "currentAttendeeCount": 8,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/20d18fb5-245a-4bc9-b0c1-fdd9ae239bc2_1770292814794?auto=compress%2Credeye%2Cformat&h=450&w=800&s=e88a31d3a0f812f918336a2104e9711d",
+    "locationAddress": "Kuokkamaantie 2, 33800 Tampere, Suomi",
+    "locationDescription": "Tampereen Kamppailuakatemia",
+    "locationCoordinates": {
+      "lat": 61.4818314,
+      "lon": 23.7769006
+    },
+    "uuid": "cbaa8440-3d39-486e-8e54-b464c650f41b",
+    "priceInCents": 12500,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "KNOK",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 234674,
+    "name": "SNL VOK-1 lajiosa la 25.4.2026, Tampere",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-04-25T00:00:00.000Z",
+    "endDateTime": "2026-04-25T00:00:00.000Z",
+    "registrationStartDateTime": "2026-02-09T15:30:00.000Z",
+    "registrationEndDateTime": "2026-04-22T23:59:00.000Z",
+    "currentAttendeeCount": 17,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/20d70357-0088-44ba-ba2f-6bced79def3c_1770645957238?auto=compress%2Credeye%2Cformat&h=450&w=800&s=0f47f1a0e08c3a26e34ffbedb937b844",
+    "locationAddress": "Kuokkamaantie 2, 33800 Tampere, Suomi",
+    "locationDescription": "Tampereen Kamppailuakatemia",
+    "locationCoordinates": {
+      "lat": 61.4818314,
+      "lon": 23.7769006
+    },
+    "uuid": "cfeae7eb-1e94-438e-ad95-4dd8fa1a3140",
+    "priceInCents": 12500,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "KNOK",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 238525,
+    "name": "SNL Eteläisen alueen leiri 2.-3.5.2026, Solvalla",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-05-02T00:00:00.000Z",
+    "endDateTime": "2026-05-03T00:00:00.000Z",
+    "registrationStartDateTime": "2026-04-23T09:00:00.000Z",
+    "registrationEndDateTime": "2026-05-02T12:00:00.000Z",
+    "currentAttendeeCount": 26,
+    "maxAttendeeCount": 30,
+    "locationAddress": "Nuuksiontie 82, 02820 Espoo, Suomi",
+    "locationDescription": "Solvallan Urheiluopisto",
+    "locationCoordinates": {
+      "lat": 60.29322620000001,
+      "lon": 24.5580535
+    },
+    "uuid": "489a8438-1979-4a8d-b88e-498fbfb1deda",
+    "priceInCents": 11500,
+    "productDiscounts": [
+      {
+        "id": 72015,
+        "discountType": "PRICE_STEP",
+        "name": "Leirimaksu ilman majoitusta",
+        "description": "ilman majoitusta sisältää lounaan.",
+        "priceInCents": 2500
+      }
+    ],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 240412,
+    "name": "SNL II-tason tuomarikoulutus, 30.-13.5.2026 Espoo",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-05-30T00:00:00.000Z",
+    "endDateTime": "2026-05-31T00:00:00.000Z",
+    "registrationStartDateTime": "2026-04-28T15:00:00.000Z",
+    "registrationEndDateTime": "2026-05-24T23:59:00.000Z",
+    "currentAttendeeCount": 10,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/6a7e3421-ddb2-4a80-9104-8f06327b96bc_1777380193968?auto=compress%2Credeye%2Cformat&h=450&w=800&s=27c79754478c4f2190b955abec1fb8a3",
+    "locationAddress": "Espoonlahdenkatu 8 Lippulaiva 4.krs, 02320 Espoo, Suomi",
+    "locationDescription": "Espoon Kamppailuopisto",
+    "locationCoordinates": {
+      "lat": 60.15071889999999,
+      "lon": 24.6539895
+    },
+    "uuid": "941ab103-57fc-489c-b5fb-9390a43a0d8f",
+    "priceInCents": 10000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "Tuomarikoulutus",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242781,
+    "name": "SNL Pohjoisen alueen leiri 31.7-2.8.2026 Vuokatti",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-07-31T00:00:00.000Z",
+    "endDateTime": "2026-08-02T00:00:00.000Z",
+    "registrationStartDateTime": "2026-06-04T12:00:00.000Z",
+    "registrationEndDateTime": "2026-07-17T12:00:00.000Z",
+    "currentAttendeeCount": 0,
+    "maxAttendeeCount": 0,
+    "locationAddress": "88615 Vuokatti, Suomi",
+    "locationDescription": "Vuokatin Urheiluopisto",
+    "locationCoordinates": {
+      "lat": 64.137543,
+      "lon": 28.2852898
+    },
+    "uuid": "8310c51e-71d3-4852-b777-045338aee0f0",
+    "priceInCents": 18000,
+    "productDiscounts": [
+      {
+        "id": 78761,
+        "discountType": "PRICE_STEP",
+        "name": "Leirimaksu 2päivää/1hh",
+        "description": "Sisältää kahden yön majoituksen yhden hengen huoneessa täysihoidolla - aamiainen, lounas, päivällinen sekä leiriohjelman",
+        "priceInCents": 21000
+      },
+      {
+        "id": 78762,
+        "discountType": "PRICE_STEP",
+        "name": "Leirimaksu 1päivä/2hh",
+        "description": "Sisältää yhden yön  majoituksen kahden hengen huoneessa täysihoidolla - aamiainen, lounas, päivällinen sekä leiriohjelman",
+        "priceInCents": 10700
+      },
+      {
+        "id": 78763,
+        "discountType": "PRICE_STEP",
+        "name": "Leirimaksu 1päivä/1hh",
+        "description": "Sisältää yhden yön  majoituksen yhden hengen huoneessa täysihoidolla - aamiainen, lounas, päivällinen sekä leiriohjelman",
+        "priceInCents": 13700
+      }
+    ],
+    "tags": [
+      "leiri"
+    ],
+    "purpose": "SPORTS",
+    "eventCategory": "Leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242782,
+    "name": "SNL Valmentajakoulutus + Pohjoisen alueen leiri 31.7-2.8.2026  Vuokatti",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-07-31T00:00:00.000Z",
+    "endDateTime": "2026-08-02T00:00:00.000Z",
+    "registrationStartDateTime": "2026-06-04T12:00:00.000Z",
+    "registrationEndDateTime": "2026-07-17T12:00:00.000Z",
+    "currentAttendeeCount": 0,
+    "maxAttendeeCount": 0,
+    "locationAddress": "88615 Vuokatti, Suomi",
+    "locationDescription": "Vuokatin Urheiluopisto",
+    "locationCoordinates": {
+      "lat": 64.137543,
+      "lon": 28.2852898
+    },
+    "uuid": "b1f68668-f0e4-4dc9-982e-c15d3f021588",
+    "priceInCents": 23000,
+    "productDiscounts": [
+      {
+        "id": 78765,
+        "discountType": "PRICE_STEP",
+        "name": "Leirimaksu 2päivää/1hh",
+        "description": "Sisältää kahden yön majoituksen yhden hengen huoneessa täysihoidolla - aamiainen, lounas, päivällinen, valmentajakoulutuksen sekä   leiriohjelman",
+        "priceInCents": 26000
+      },
+      {
+        "id": 78766,
+        "discountType": "PRICE_STEP",
+        "name": "Leirimaksu 1päivä/2hh",
+        "description": "Sisältää yhden yön  majoituksen kahden hengen huoneessa täysihoidolla - aamiainen, lounas, päivällinen, valmentajakoulutuksen sekä leiriohjelman",
+        "priceInCents": 15700
+      },
+      {
+        "id": 78767,
+        "discountType": "PRICE_STEP",
+        "name": "Leirimaksu 1päivä/1hh",
+        "description": "Sisältää yhden yön  majoituksen yhden hengen huoneessa täysihoidolla - aamiainen, lounas, päivällinen, valmentajakoulutuksen sekä leiriohjelman",
+        "priceInCents": 18700
+      }
+    ],
+    "tags": [
+      "leiri"
+    ],
+    "purpose": "SPORTS",
+    "eventCategory": "Leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242722,
+    "name": "SNL II-tason tuomarikoulutus, 1-2.8.2026 Vuokatti",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-08-01T00:00:00.000Z",
+    "endDateTime": "2026-08-02T00:00:00.000Z",
+    "registrationStartDateTime": "2026-06-03T12:00:00.000Z",
+    "registrationEndDateTime": "2026-07-26T23:59:00.000Z",
+    "currentAttendeeCount": 0,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/d96b201a-9a4d-41cc-a92f-792bd220b2d3_1780478959924?auto=compress%2Credeye%2Cformat&h=450&w=800&s=511253a4a51980c3656a0c95d3e2da4d",
+    "locationAddress": "88615 Vuokatti, Suomi",
+    "locationDescription": "Vuokatin Urheiluopisto",
+    "locationCoordinates": {
+      "lat": 64.137543,
+      "lon": 28.2852898
+    },
+    "uuid": "8cb2919d-0590-409c-9454-9752a152ed39",
+    "priceInCents": 10000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "Tuomarikoulutus",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242492,
+    "name": "SNL Itäisen alueen leiri 8.-9.8.2026, Pajulahti",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-08-08T00:00:00.000Z",
+    "endDateTime": "2026-08-09T00:00:00.000Z",
+    "registrationStartDateTime": "2026-05-29T15:00:00.000Z",
+    "registrationEndDateTime": "2026-07-24T23:59:00.000Z",
+    "currentAttendeeCount": 1,
+    "maxAttendeeCount": 0,
+    "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
+    "locationDescription": "Pajulahti",
+    "locationCoordinates": {
+      "lat": 60.9694083,
+      "lon": 25.9419347
+    },
+    "uuid": "2b873a60-5ba4-46c1-b926-e26763a57103",
+    "priceInCents": 11500,
+    "productDiscounts": [],
+    "tags": [
+      "leiri"
+    ],
+    "purpose": "SPORTS",
+    "eventCategory": "Leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 243588,
+    "name": "SNL Eteläisen alueen leiri 15.-16.8.2026 Solvalla",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-08-15T00:00:00.000Z",
+    "endDateTime": "2026-08-16T00:00:00.000Z",
+    "registrationStartDateTime": "2026-06-09T12:00:00.000Z",
+    "registrationEndDateTime": "2026-08-07T12:00:00.000Z",
+    "currentAttendeeCount": 1,
+    "maxAttendeeCount": 0,
+    "locationAddress": "Nuuksiontie 82, 02820 Espoo, Suomi",
+    "locationDescription": "Solvallan Urheiluopisto",
+    "locationCoordinates": {
+      "lat": 60.29319769999999,
+      "lon": 24.558118
+    },
+    "uuid": "5d636c28-7e81-4582-a11e-c762e52f4273",
+    "priceInCents": 11500,
+    "productDiscounts": [
+      {
+        "id": 81198,
+        "discountType": "PRICE_STEP",
+        "name": "Leirimaksu ilman majoitusta",
+        "description": "Sisältää lounaat sekä leiriohjelman",
+        "priceInCents": 2500
+      }
+    ],
+    "tags": [
+      "leiri"
+    ],
+    "purpose": "SPORTS",
+    "eventCategory": "Leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242333,
+    "name": "SNL Kuntonyrkkeilyn ohjaajakurssi KNOK la 22.8.2026, Joensuu",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-08-22T00:00:00.000Z",
+    "endDateTime": "2026-08-22T00:00:00.000Z",
+    "registrationStartDateTime": "2026-05-27T12:00:00.000Z",
+    "registrationEndDateTime": "2026-08-16T23:59:00.000Z",
+    "currentAttendeeCount": 0,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/f34280fb-4d21-4015-8ebd-000682a6ba82_1779876810604?auto=compress%2Credeye%2Cformat&h=450&w=800&s=5961a1e5c6075eced7199e0a014b9354",
+    "locationAddress": "Kuurnankatu 31, 80130 Joensuu, Suomi",
+    "locationDescription": "Combat Heaven sali",
+    "locationCoordinates": {
+      "lat": 62.61774550000001,
+      "lon": 29.7502933
+    },
+    "uuid": "d235c3c0-15e5-4fac-839a-3d4cbfde51a4",
+    "priceInCents": 12000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "KNOK",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242295,
+    "name": "SNL Läntisen alueen leiri 22.-23.8.2026, Kuortane",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-08-22T00:00:00.000Z",
+    "endDateTime": "2026-08-23T00:00:00.000Z",
+    "registrationStartDateTime": "2026-05-26T15:00:00.000Z",
+    "registrationEndDateTime": "2026-08-14T23:59:00.000Z",
+    "currentAttendeeCount": 1,
+    "maxAttendeeCount": 0,
+    "locationAddress": "63100 Kuortane, Suomi",
+    "locationDescription": "Kuku Maja/ Urheiluopisto",
+    "locationCoordinates": {
+      "lat": 62.8069725,
+      "lon": 23.5068837
+    },
+    "uuid": "546c867d-bae5-44c6-98b9-646d66c0e50c",
+    "priceInCents": 2000,
+    "productDiscounts": [],
+    "tags": [
+      "leiri"
+    ],
+    "purpose": "SPORTS",
+    "eventCategory": "Leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 238955,
+    "name": "SNL Nyrkkeilytuomariseminaari 28.-29.8.2026 TALLINK SILJA",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-08-28T00:00:00.000Z",
+    "endDateTime": "2026-08-29T00:00:00.000Z",
+    "registrationStartDateTime": "2026-06-05T14:00:00.000Z",
+    "registrationEndDateTime": "2026-08-24T12:00:00.000Z",
+    "currentAttendeeCount": 0,
+    "maxAttendeeCount": 0,
+    "locationAddress": "Eteläranta 7, 00130 Helsinki, Suomi",
+    "locationDescription": "Tallink Silja",
+    "locationCoordinates": {
+      "lat": 60.16363499999999,
+      "lon": 24.9551306
+    },
+    "uuid": "65d49e31-7e78-4e68-acd3-51669a6f30b5",
+    "priceInCents": 13000,
+    "productDiscounts": [
+      {
+        "id": 78782,
+        "discountType": "PRICE_STEP",
+        "name": "Hinta 1 hengen hytissä",
+        "description": "sisältää matkan majoituksella 1hh A-Seaview hytissä, kokoustilan perjantaina ja lauantaina lounasbuffan.",
+        "priceInCents": 17000
+      }
+    ],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "leiri",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242731,
+    "name": "SNL KNOK Kuntonyrkkeilyohjaajan jatkokoulutus  5.-6..9.2026, TURKU",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-09-05T00:00:00.000Z",
+    "endDateTime": "2026-09-06T00:00:00.000Z",
+    "registrationStartDateTime": "2026-06-03T14:00:00.000Z",
+    "registrationEndDateTime": "2026-08-30T23:59:00.000Z",
+    "currentAttendeeCount": 0,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/ab0ddb81-5549-41c2-8f3f-cf4e831e39af_1780485205320?auto=compress%2Credeye%2Cformat&h=450&w=800&s=6f7d9e337a9cf4def9d602f47fed9e3e",
+    "locationAddress": "Vanha Hämeentie 29, 20540 Turku, Suomi",
+    "locationDescription": "Turun Jyry sali/ T-talo",
+    "locationCoordinates": {
+      "lat": 60.45530600000001,
+      "lon": 22.3056623
+    },
+    "uuid": "78dcaa77-fac6-4a55-8e02-eebb669ad69f",
+    "priceInCents": 13000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "KNOK JATKO",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242338,
+    "name": "Kamppailulajien yhteinen senioriohjaajakoulutus 13.9.2026, Tuusula ",
+    "sports": [],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-09-13T00:00:00.000Z",
+    "endDateTime": "2026-09-13T00:00:00.000Z",
+    "registrationStartDateTime": "2026-05-27T12:00:00.000Z",
+    "registrationEndDateTime": "2026-09-10T23:59:00.000Z",
+    "currentAttendeeCount": 3,
+    "maxAttendeeCount": 30,
+    "imageUrl": "https://suomisport-images.imgix.net/event/f827863d-6509-4d31-832b-7655b1d46780_1779877813105?auto=compress%2Credeye%2Cformat&h=450&w=800&s=9e451a2e6788d9eb4923bb597fe1c294",
+    "locationAddress": "Rykmentintie 47, 04300 Tuusula, Suomi",
+    "locationDescription": "Tuusulan Nyrkkeilyseuran sali",
+    "locationCoordinates": {
+      "lat": 60.3977398,
+      "lon": 25.0346831
+    },
+    "uuid": "d21d0578-7179-4cce-ba90-5d9f08f53f75",
+    "priceInCents": 6000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242346,
+    "name": "SNL KNOK jatkokurssi+ harrastetapahtuma 9.-11.10.2026, Pajulahti ",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-10-09T00:00:00.000Z",
+    "endDateTime": "2026-10-11T00:00:00.000Z",
+    "registrationStartDateTime": "2026-05-27T12:00:00.000Z",
+    "registrationEndDateTime": "2026-10-02T12:00:00.000Z",
+    "currentAttendeeCount": 0,
+    "maxAttendeeCount": 20,
+    "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
+    "locationDescription": "Pajulahden Urheiluopisto",
+    "locationCoordinates": {
+      "lat": 60.9691941,
+      "lon": 25.9423884
+    },
+    "uuid": "ba54dc4b-f4f1-4b05-8b43-73d618c5db3d",
+    "priceInCents": 28000,
+    "productDiscounts": [
+      {
+        "id": 81174,
+        "discountType": "PRICE_STEP",
+        "name": "Hinta 1hh",
+        "description": "Hinta koko viikonlopulta (pe-su) sisältäen majoituksen jaetussa 1hh, ruokailut sekä ohejlman",
+        "priceInCents": 31300
+      }
+    ],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "harrastetapahtuma",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242785,
+    "name": "SNL Kuntonyrkkeilyn harrastetapahtuma 10.-11.10. 2026 Pajulahti ",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-10-10T00:00:00.000Z",
+    "endDateTime": "2026-10-11T00:00:00.000Z",
+    "registrationStartDateTime": "2026-06-04T12:00:00.000Z",
+    "registrationEndDateTime": "2026-09-25T12:00:00.000Z",
+    "currentAttendeeCount": 0,
+    "maxAttendeeCount": 20,
+    "locationAddress": "15560 Lahti, Suomi",
+    "locationDescription": "Pajulahden Urheiluopisto",
+    "locationCoordinates": {
+      "lat": 60.9688305,
+      "lon": 25.9374025
+    },
+    "uuid": "c71f3fa0-c409-476b-8631-e6ab97a8a6c2",
+    "priceInCents": 14200,
+    "productDiscounts": [
+      {
+        "id": 78769,
+        "discountType": "PRICE_STEP",
+        "name": "Hinta 1hh",
+        "description": "Hinta sisältää majoituksen ruokineen yhden hengen huoneessa",
+        "priceInCents": 17500
+      }
+    ],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "Tuomarikoulutus",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242336,
+    "name": "SNL Vilperi-Box ohjaajakoulutus 17.10.2026, JOENSUU",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-10-17T00:00:00.000Z",
+    "endDateTime": "2026-10-17T00:00:00.000Z",
+    "registrationStartDateTime": "2026-05-27T12:00:00.000Z",
+    "registrationEndDateTime": "2026-10-11T23:59:00.000Z",
+    "currentAttendeeCount": 0,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/9c9b4ada-0bb4-408f-bec6-f2209d1f791a_1779877071871?auto=compress%2Credeye%2Cformat&h=450&w=800&s=0d74e3b1643e0b673fb132c991898465",
+    "locationAddress": "Tulliportinkatu 54, 80130 Joensuu, Suomi",
+    "locationDescription": "Combat Heaven sali",
+    "locationCoordinates": {
+      "lat": 62.6153917,
+      "lon": 29.7388951
+    },
+    "uuid": "98ccbd6f-38e0-41de-bed4-3d4c8d3cd6b0",
+    "priceInCents": 6000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "Vilperi",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 242331,
+    "name": "SNL Kuntonyrkkeilyn ohjaajakurssi KNOK su 18.10.2026, Helsinki",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-10-18T00:00:00.000Z",
+    "endDateTime": "2026-10-18T00:00:00.000Z",
+    "registrationStartDateTime": "2026-05-27T12:00:00.000Z",
+    "registrationEndDateTime": "2026-10-11T23:59:00.000Z",
+    "currentAttendeeCount": 1,
+    "maxAttendeeCount": 0,
+    "imageUrl": "https://suomisport-images.imgix.net/event/14901bdb-efde-454d-b4df-f98f4bf591e4_1779875813771?auto=compress%2Credeye%2Cformat&h=450&w=800&s=87b986cd5f8c01cae922913ff488b461",
+    "locationAddress": "Teerikukonkuja 3, 00700 Helsinki, Suomi",
+    "locationDescription": "Combat Society sali",
+    "locationCoordinates": {
+      "lat": 60.25501010000001,
+      "lon": 25.0247279
+    },
+    "uuid": "86644f97-fdad-486d-bb46-51f59edc8208",
+    "priceInCents": 12000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "EDUCATION",
+    "eventCategory": "KNOK",
+    "eventInstructors": []
+  },
+  {
+    "eventId": 243503,
+    "name": "SNL Nepsy-haasteet ja nyrkkeilyn ohjaaminen kurssi su 1.11.2026, Lahti",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-11-01T00:00:00.000Z",
+    "endDateTime": "2026-11-01T00:00:00.000Z",
+    "registrationStartDateTime": "2026-06-08T11:00:00.000Z",
+    "registrationEndDateTime": "2026-10-25T23:59:00.000Z",
+    "currentAttendeeCount": 0,
+    "maxAttendeeCount": 0,
+    "locationAddress": "Tunnelikatu 2, 15140 Lahti, Suomi",
+    "locationDescription": "Lahden Laakin ja Lahden Kalevan sali",
+    "locationCoordinates": {
+      "lat": 60.98623509999999,
+      "lon": 25.6733089
+    },
+    "uuid": "1e9362b7-6311-4b5e-944c-3beea5102b1b",
+    "priceInCents": 5000,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "Nepsy",
+    "eventInstructors": []
+  }
+]
