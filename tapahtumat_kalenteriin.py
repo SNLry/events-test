@@ -270,7 +270,7 @@ body { font-family: Arial; }
 """
 
     html += """
-    <a href="events_all.html" class="all-events-button">Katso kaikki tapahtumat →</a>
+    <a href="https://www.nyrkkeilyliitto.com/tapahtumakalenteri/" class="all-events-button">Katso kaikki tapahtumat →</a>
 </body>
 </html>
 """
