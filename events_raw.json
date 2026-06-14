@@ -1101,7 +1101,7 @@
     "endDateTime": "2026-09-13T00:00:00.000Z",
     "registrationStartDateTime": "2026-05-27T12:00:00.000Z",
     "registrationEndDateTime": "2026-09-10T23:59:00.000Z",
-    "currentAttendeeCount": 3,
+    "currentAttendeeCount": 4,
     "maxAttendeeCount": 30,
     "imageUrl": "https://suomisport-images.imgix.net/event/f827863d-6509-4d31-832b-7655b1d46780_1779877813105?auto=compress%2Credeye%2Cformat&h=450&w=800&s=9e451a2e6788d9eb4923bb597fe1c294",
     "locationAddress": "Rykmentintie 47, 04300 Tuusula, Suomi",
