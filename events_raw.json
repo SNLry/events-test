@@ -1074,7 +1074,7 @@
     "endDateTime": "2026-09-06T00:00:00.000Z",
     "registrationStartDateTime": "2026-06-03T14:00:00.000Z",
     "registrationEndDateTime": "2026-08-30T23:59:00.000Z",
-    "currentAttendeeCount": 0,
+    "currentAttendeeCount": 1,
     "maxAttendeeCount": 0,
     "imageUrl": "https://suomisport-images.imgix.net/event/ab0ddb81-5549-41c2-8f3f-cf4e831e39af_1780485205320?auto=compress%2Credeye%2Cformat&h=450&w=800&s=6f7d9e337a9cf4def9d602f47fed9e3e",
     "locationAddress": "Vanha Hämeentie 29, 20540 Turku, Suomi",
