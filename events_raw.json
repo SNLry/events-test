@@ -1248,6 +1248,34 @@
     "eventInstructors": []
   },
   {
+    "eventId": 244629,
+    "name": "SNL VOK-1 valmentajakoulutus",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2026-10-18T00:00:00.000Z",
+    "endDateTime": "2026-10-18T00:00:00.000Z",
+    "registrationStartDateTime": "2026-06-26T15:00:00.000Z",
+    "registrationEndDateTime": "2026-10-12T12:00:00.000Z",
+    "currentAttendeeCount": 0,
+    "maxAttendeeCount": 20,
+    "locationAddress": "Helsinki, Suomi",
+    "locationDescription": "",
+    "locationCoordinates": {
+      "lat": 60.16985569999999,
+      "lon": 24.938379
+    },
+    "uuid": "4b5a8828-ccde-4429-a75c-b0c8f5fd724c",
+    "priceInCents": 2900,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "VOK1- valmentajakoulutus",
+    "eventInstructors": []
+  },
+  {
     "eventId": 243503,
     "name": "SNL Nepsy-haasteet ja nyrkkeilyn ohjaaminen kurssi su 1.11.2026, Lahti",
     "sports": [
