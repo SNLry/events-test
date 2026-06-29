@@ -911,7 +911,7 @@
     "endDateTime": "2026-08-09T00:00:00.000Z",
     "registrationStartDateTime": "2026-05-29T15:00:00.000Z",
     "registrationEndDateTime": "2026-07-24T23:59:00.000Z",
-    "currentAttendeeCount": 3,
+    "currentAttendeeCount": 4,
     "maxAttendeeCount": 0,
     "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
     "locationDescription": "Pajulahti",
