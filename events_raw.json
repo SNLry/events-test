@@ -1,35 +1,5 @@
 [
   {
-    "eventId": 218734,
-    "name": "SNL maajoukkueleiri 7.-11.7.2025, Pajulahti",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-07-07T00:00:00.000Z",
-    "endDateTime": "2025-07-11T00:00:00.000Z",
-    "registrationStartDateTime": "2025-06-16T07:00:00.000Z",
-    "registrationEndDateTime": "2025-07-08T23:59:00.000Z",
-    "currentAttendeeCount": 16,
-    "maxAttendeeCount": 24,
-    "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
-    "locationDescription": "Pajulahti",
-    "locationCoordinates": {
-      "lat": 60.9694083,
-      "lon": 25.9419347
-    },
-    "uuid": "39c0fb58-7d52-4dd4-8847-5ddadb0cd073",
-    "priceInCents": 39500,
-    "productDiscounts": [],
-    "tags": [
-      "leiri"
-    ],
-    "purpose": "SPORTS",
-    "eventCategory": "Leiri",
-    "eventInstructors": []
-  },
-  {
     "eventId": 222860,
     "name": "SNL Läntisen alueen nyrkkeilyleiri 16.-17.8.2025",
     "sports": [
