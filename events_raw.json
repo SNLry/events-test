@@ -1099,7 +1099,7 @@
     "endDateTime": "2026-10-11T00:00:00.000Z",
     "registrationStartDateTime": "2026-05-27T12:00:00.000Z",
     "registrationEndDateTime": "2026-10-02T12:00:00.000Z",
-    "currentAttendeeCount": 2,
+    "currentAttendeeCount": 3,
     "maxAttendeeCount": 20,
     "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
     "locationDescription": "Pajulahden Urheiluopisto",
