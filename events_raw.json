@@ -881,7 +881,7 @@
     "endDateTime": "2026-08-09T00:00:00.000Z",
     "registrationStartDateTime": "2026-05-29T15:00:00.000Z",
     "registrationEndDateTime": "2026-07-24T23:59:00.000Z",
-    "currentAttendeeCount": 16,
+    "currentAttendeeCount": 17,
     "maxAttendeeCount": 0,
     "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
     "locationDescription": "Pajulahti",
@@ -1231,15 +1231,30 @@
     "registrationEndDateTime": "2026-10-12T12:00:00.000Z",
     "currentAttendeeCount": 0,
     "maxAttendeeCount": 20,
-    "locationAddress": "Helsinki, Suomi",
+    "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
     "locationDescription": "",
     "locationCoordinates": {
-      "lat": 60.16985569999999,
-      "lon": 24.938379
+      "lat": 60.9691787,
+      "lon": 25.9438608
     },
     "uuid": "4b5a8828-ccde-4429-a75c-b0c8f5fd724c",
-    "priceInCents": 2900,
-    "productDiscounts": [],
+    "priceInCents": 29900,
+    "productDiscounts": [
+      {
+        "id": 82270,
+        "discountType": "PRICE_STEP",
+        "name": "Vaihtoehto 2 ",
+        "description": "Lähijakso Pajulahti Täysihoito la-su 1hh",
+        "priceInCents": 33900
+      },
+      {
+        "id": 82271,
+        "discountType": "PRICE_STEP",
+        "name": "Vaihtoehto 3",
+        "description": "Lähijakso Pajulahti Ei majoitusta",
+        "priceInCents": 22900
+      }
+    ],
     "tags": [],
     "purpose": "SPORTS",
     "eventCategory": "VOK1- valmentajakoulutus",
