@@ -911,7 +911,7 @@
     "endDateTime": "2026-08-16T00:00:00.000Z",
     "registrationStartDateTime": "2026-06-09T12:00:00.000Z",
     "registrationEndDateTime": "2026-08-07T12:00:00.000Z",
-    "currentAttendeeCount": 8,
+    "currentAttendeeCount": 9,
     "maxAttendeeCount": 0,
     "locationAddress": "Nuuksiontie 82, 02820 Espoo, Suomi",
     "locationDescription": "Solvallan Urheiluopisto",
@@ -1089,7 +1089,7 @@
   },
   {
     "eventId": 244629,
-    "name": "SNL VOK-1 valmentajakoulutus",
+    "name": "SNL VOK-1 ohjaaja- ja valmentajakoulutus",
     "sports": [
       "Nyrkkeily"
     ],
@@ -1098,7 +1098,7 @@
     "startDateTime": "2026-09-14T00:00:00.000Z",
     "endDateTime": "2026-12-07T00:00:00.000Z",
     "registrationStartDateTime": "2026-06-26T15:00:00.000Z",
-    "registrationEndDateTime": "2026-10-02T12:00:00.000Z",
+    "registrationEndDateTime": "2026-09-13T23:59:00.000Z",
     "currentAttendeeCount": 1,
     "maxAttendeeCount": 20,
     "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
