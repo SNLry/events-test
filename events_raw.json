@@ -911,7 +911,7 @@
     "endDateTime": "2026-08-16T00:00:00.000Z",
     "registrationStartDateTime": "2026-06-09T12:00:00.000Z",
     "registrationEndDateTime": "2026-08-07T12:00:00.000Z",
-    "currentAttendeeCount": 14,
+    "currentAttendeeCount": 17,
     "maxAttendeeCount": 0,
     "locationAddress": "Nuuksiontie 82, 02820 Espoo, Suomi",
     "locationDescription": "Solvallan Urheiluopisto",
@@ -1010,11 +1010,11 @@
     "registrationEndDateTime": "2026-08-24T12:00:00.000Z",
     "currentAttendeeCount": 0,
     "maxAttendeeCount": 0,
-    "locationAddress": "Eteläranta 7, 00130 Helsinki, Suomi",
+    "locationAddress": "Tyynenmerenkatu 14, 00220 Helsinki, Suomi",
     "locationDescription": "Tallink Silja",
     "locationCoordinates": {
-      "lat": 60.16363499999999,
-      "lon": 24.9551306
+      "lat": 60.1540522,
+      "lon": 24.9209121
     },
     "uuid": "65d49e31-7e78-4e68-acd3-51669a6f30b5",
     "priceInCents": 13000,
