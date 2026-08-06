@@ -911,7 +911,7 @@
     "endDateTime": "2026-08-16T00:00:00.000Z",
     "registrationStartDateTime": "2026-06-09T12:00:00.000Z",
     "registrationEndDateTime": "2026-08-07T12:00:00.000Z",
-    "currentAttendeeCount": 12,
+    "currentAttendeeCount": 13,
     "maxAttendeeCount": 0,
     "locationAddress": "Nuuksiontie 82, 02820 Espoo, Suomi",
     "locationDescription": "Solvallan Urheiluopisto",
