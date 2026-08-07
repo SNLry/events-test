@@ -1008,7 +1008,7 @@
     "endDateTime": "2026-08-29T00:00:00.000Z",
     "registrationStartDateTime": "2026-06-05T14:00:00.000Z",
     "registrationEndDateTime": "2026-08-24T12:00:00.000Z",
-    "currentAttendeeCount": 2,
+    "currentAttendeeCount": 5,
     "maxAttendeeCount": 0,
     "locationAddress": "Tyynenmerenkatu 14, 00220 Helsinki, Suomi",
     "locationDescription": "Tallink Silja",
