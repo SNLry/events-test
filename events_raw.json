@@ -1,33 +1,5 @@
 [
   {
-    "eventId": 222860,
-    "name": "SNL Läntisen alueen nyrkkeilyleiri 16.-17.8.2025",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-08-16T00:00:00.000Z",
-    "endDateTime": "2025-08-17T00:00:00.000Z",
-    "registrationStartDateTime": "2025-08-05T17:00:00.000Z",
-    "registrationEndDateTime": "2025-08-16T11:00:00.000Z",
-    "currentAttendeeCount": 25,
-    "maxAttendeeCount": 30,
-    "locationAddress": "37100 Nokia, Suomi",
-    "locationDescription": "Nuijamiestenie 9",
-    "locationCoordinates": {
-      "lat": 61.4803094,
-      "lon": 23.501203
-    },
-    "uuid": "fa1266cf-fa43-45f5-891c-34af1fc59072",
-    "priceInCents": 2000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "SPORTS",
-    "eventCategory": "leiri",
-    "eventInstructors": []
-  },
-  {
     "eventId": 221485,
     "name": "SNL II-tason tuomarikoulutus, Kuortane 23.-24.8.2025  PERUTTU",
     "sports": [
