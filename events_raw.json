@@ -1085,14 +1085,14 @@
       {
         "id": 82270,
         "discountType": "PRICE_STEP",
-        "name": "Vaihtoehto 2 ",
+        "name": "Vaihtoehto 2:",
         "description": "Sisältää \n- Lähijakso Pajulahti majoitus ja täysihoito la-su 1hh\n- Lajiosio\n- Vebinaarit",
         "priceInCents": 33900
       },
       {
         "id": 82271,
         "discountType": "PRICE_STEP",
-        "name": "Vaihtoehto 3",
+        "name": "Vaihtoehto 3:",
         "description": "Sisältää \n- Lähijakso Pajulahti ilman majoitusta ja ruokailuja\n- Lajiosio\n- Vebinaarit",
         "priceInCents": 22900
       }
