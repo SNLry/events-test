@@ -1215,7 +1215,7 @@
     "endDateTime": "2026-10-18T00:00:00.000Z",
     "registrationStartDateTime": "2026-05-27T12:00:00.000Z",
     "registrationEndDateTime": "2026-10-11T23:59:00.000Z",
-    "currentAttendeeCount": 5,
+    "currentAttendeeCount": 6,
     "maxAttendeeCount": 0,
     "imageUrl": "https://suomisport-images.imgix.net/event/14901bdb-efde-454d-b4df-f98f4bf591e4_1779875813771?auto=compress%2Credeye%2Cformat&h=450&w=800&s=87b986cd5f8c01cae922913ff488b461",
     "locationAddress": "Teerikukonkuja 3, 00700 Helsinki, Suomi",
