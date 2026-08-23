@@ -29,34 +29,6 @@
     "eventInstructors": []
   },
   {
-    "eventId": 222924,
-    "name": "SNL Leiripäivä aloitteleville nyrkkeilijöille 23.8.2025 Nokia PERUTTU",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-08-23T00:00:00.000Z",
-    "endDateTime": "2025-08-23T00:00:00.000Z",
-    "registrationStartDateTime": "2025-08-06T17:00:00.000Z",
-    "registrationEndDateTime": "2025-08-22T12:00:00.000Z",
-    "currentAttendeeCount": 6,
-    "maxAttendeeCount": 30,
-    "locationAddress": "37100 Nokia, Suomi",
-    "locationDescription": "Nuijamiestenie 9",
-    "locationCoordinates": {
-      "lat": 61.4803094,
-      "lon": 23.501203
-    },
-    "uuid": "0a235853-2d55-4dd1-adf4-c168c9b332e9",
-    "priceInCents": 2000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "SPORTS",
-    "eventCategory": "leiri",
-    "eventInstructors": []
-  },
-  {
     "eventId": 223010,
     "name": "SNL Leiripäivä aloitteleville nyrkkeilijöille 30.8.2025 Järvenpää",
     "sports": [
