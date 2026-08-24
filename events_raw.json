@@ -1,34 +1,5 @@
 [
   {
-    "eventId": 221485,
-    "name": "SNL II-tason tuomarikoulutus, Kuortane 23.-24.8.2025  PERUTTU",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-08-23T00:00:00.000Z",
-    "endDateTime": "2025-08-24T00:00:00.000Z",
-    "registrationStartDateTime": "2025-07-14T15:30:00.000Z",
-    "registrationEndDateTime": "2025-08-15T12:59:00.000Z",
-    "currentAttendeeCount": 1,
-    "maxAttendeeCount": 0,
-    "imageUrl": "https://suomisport-images.imgix.net/event/9eda7e6c-9d60-46f1-88e4-a606f2913a2e_1752495486122?auto=compress%2Credeye%2Cformat&h=450&w=800&s=e8585ea875ccf04b5c1e54168f0f30bd",
-    "locationAddress": "63100 Kuortane, Suomi",
-    "locationDescription": "KuKun maja",
-    "locationCoordinates": {
-      "lat": 62.8069725,
-      "lon": 23.5068837
-    },
-    "uuid": "a59e6828-e694-4499-8728-eaa44e7f4767",
-    "priceInCents": 10000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "EDUCATION",
-    "eventCategory": "Tuomarikoulutus",
-    "eventInstructors": []
-  },
-  {
     "eventId": 223010,
     "name": "SNL Leiripäivä aloitteleville nyrkkeilijöille 30.8.2025 Järvenpää",
     "sports": [
