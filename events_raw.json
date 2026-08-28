@@ -1014,7 +1014,7 @@
     "endDateTime": "2026-12-07T00:00:00.000Z",
     "registrationStartDateTime": "2026-06-26T15:00:00.000Z",
     "registrationEndDateTime": "2026-08-31T23:59:00.000Z",
-    "currentAttendeeCount": 2,
+    "currentAttendeeCount": 3,
     "maxAttendeeCount": 20,
     "locationAddress": "Pajulahdentie 167, 15560 Nastola, Suomi",
     "locationDescription": "",
