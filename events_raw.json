@@ -1,33 +1,5 @@
 [
   {
-    "eventId": 223010,
-    "name": "SNL Leiripäivä aloitteleville nyrkkeilijöille 30.8.2025 Järvenpää",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-08-30T00:00:00.000Z",
-    "endDateTime": "2025-08-30T00:00:00.000Z",
-    "registrationStartDateTime": "2025-08-07T14:30:00.000Z",
-    "registrationEndDateTime": "2025-08-29T12:00:00.000Z",
-    "currentAttendeeCount": 15,
-    "maxAttendeeCount": 30,
-    "locationAddress": "Järvenpää, Suomi",
-    "locationDescription": "Vanha yhdystie 2",
-    "locationCoordinates": {
-      "lat": 60.4747894,
-      "lon": 25.0971051
-    },
-    "uuid": "8f7ebbef-5ac6-4f9d-919d-639299072cfb",
-    "priceInCents": 1000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "SPORTS",
-    "eventCategory": "leiri",
-    "eventInstructors": []
-  },
-  {
     "eventId": 218626,
     "name": "SNL Kuntonyrkkeilyohjaajien Diplomikurssi 13-14.9.2025, KOKKOLA PERUTTU",
     "sports": [
