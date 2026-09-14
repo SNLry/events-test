@@ -1,33 +1,5 @@
 [
   {
-    "eventId": 218626,
-    "name": "SNL Kuntonyrkkeilyohjaajien Diplomikurssi 13-14.9.2025, KOKKOLA PERUTTU",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-09-13T00:00:00.000Z",
-    "endDateTime": "2025-09-14T00:00:00.000Z",
-    "registrationStartDateTime": "2025-06-12T10:00:00.000Z",
-    "registrationEndDateTime": "2025-09-04T23:59:00.000Z",
-    "currentAttendeeCount": 1,
-    "maxAttendeeCount": 0,
-    "locationAddress": "Kaarlelankatu 6, 67100 Kokkola, Suomi",
-    "locationDescription": "KBT kokkolan sali ( Kokkolan Kamppailusali)",
-    "locationCoordinates": {
-      "lat": 63.83629140000001,
-      "lon": 23.1387124
-    },
-    "uuid": "a057f93f-d2bf-4e92-9223-eff9d1673408",
-    "priceInCents": 13000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "EDUCATION",
-    "eventCategory": "Diplomi",
-    "eventInstructors": []
-  },
-  {
     "eventId": 225125,
     "name": "SNL II-tason tuomarikoulutus, Helsinki 27.-28.9.2025",
     "sports": [
