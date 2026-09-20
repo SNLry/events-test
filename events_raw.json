@@ -1037,7 +1037,7 @@
     "endDateTime": "2026-10-11T00:00:00.000Z",
     "registrationStartDateTime": "2026-06-04T12:00:00.000Z",
     "registrationEndDateTime": "2026-09-25T12:00:00.000Z",
-    "currentAttendeeCount": 3,
+    "currentAttendeeCount": 6,
     "maxAttendeeCount": 20,
     "locationAddress": "15560 Lahti, Suomi",
     "locationDescription": "Pajulahden Urheiluopisto",
