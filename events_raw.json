@@ -1027,7 +1027,7 @@
   },
   {
     "eventId": 242785,
-    "name": "SNL Kuntonyrkkeilyn harrastetapahtuma 10.-11.10. 2026 Pajulahti ",
+    "name": "SNL Kuntonyrkkeilyn harrastetapahtuma 10.-11.10. 2026 Pajulahti  PERUTTU",
     "sports": [
       "Nyrkkeily"
     ],
@@ -1036,7 +1036,7 @@
     "startDateTime": "2026-10-10T00:00:00.000Z",
     "endDateTime": "2026-10-11T00:00:00.000Z",
     "registrationStartDateTime": "2026-06-04T12:00:00.000Z",
-    "registrationEndDateTime": "2026-09-25T12:00:00.000Z",
+    "registrationEndDateTime": "2026-09-24T12:00:00.000Z",
     "currentAttendeeCount": 6,
     "maxAttendeeCount": 20,
     "locationAddress": "15560 Lahti, Suomi",
@@ -1072,7 +1072,7 @@
     "startDateTime": "2026-10-17T00:00:00.000Z",
     "endDateTime": "2026-10-17T00:00:00.000Z",
     "registrationStartDateTime": "2026-05-27T12:00:00.000Z",
-    "registrationEndDateTime": "2026-10-11T23:59:00.000Z",
+    "registrationEndDateTime": "2026-09-24T14:00:00.000Z",
     "currentAttendeeCount": 0,
     "maxAttendeeCount": 0,
     "imageUrl": "https://suomisport-images.imgix.net/event/9c9b4ada-0bb4-408f-bec6-f2209d1f791a_1779877071871?auto=compress%2Credeye%2Cformat&h=450&w=800&s=0d74e3b1643e0b673fb132c991898465",
