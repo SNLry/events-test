@@ -1,34 +1,5 @@
 [
   {
-    "eventId": 225125,
-    "name": "SNL II-tason tuomarikoulutus, Helsinki 27.-28.9.2025",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-09-27T00:00:00.000Z",
-    "endDateTime": "2025-09-28T00:00:00.000Z",
-    "registrationStartDateTime": "2025-08-22T16:30:00.000Z",
-    "registrationEndDateTime": "2025-09-25T12:00:00.000Z",
-    "currentAttendeeCount": 5,
-    "maxAttendeeCount": 0,
-    "imageUrl": "https://suomisport-images.imgix.net/event/6d640bf9-bb5b-4ab1-8a88-c31afad07924_1755869209056?auto=compress%2Credeye%2Cformat&h=450&w=800&s=9d7b06b20958ae1d0bc57590e5c0f3eb",
-    "locationAddress": "Ratsastie 10, 00280 Helsinki, Suomi",
-    "locationDescription": "Ruskeasuon pallouluhalli",
-    "locationCoordinates": {
-      "lat": 60.1987791,
-      "lon": 24.9104875
-    },
-    "uuid": "b857637c-12b5-45d3-aec3-daab5ff49467",
-    "priceInCents": 10000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "EDUCATION",
-    "eventCategory": "Tuomarikoulutus",
-    "eventInstructors": []
-  },
-  {
     "eventId": 225123,
     "name": "SNL I-luokan tuomarikoulutus Oulussa 4.-5.10.2025",
     "sports": [
