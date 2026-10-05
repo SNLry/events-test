@@ -1,33 +1,5 @@
 [
   {
-    "eventId": 225123,
-    "name": "SNL I-luokan tuomarikoulutus Oulussa 4.-5.10.2025",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-10-04T00:00:00.000Z",
-    "endDateTime": "2025-10-05T00:00:00.000Z",
-    "registrationStartDateTime": "2025-08-22T15:30:00.000Z",
-    "registrationEndDateTime": "2025-09-28T23:59:00.000Z",
-    "currentAttendeeCount": 4,
-    "maxAttendeeCount": 0,
-    "locationAddress": "Tyrnäväntie 16, 90400 Oulu, Suomi",
-    "locationDescription": "Oulun Kamppailuklubi",
-    "locationCoordinates": {
-      "lat": 64.9937748,
-      "lon": 25.4578062
-    },
-    "uuid": "b715d98b-aee1-4fff-96a0-90999e3f37e1",
-    "priceInCents": 10000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "EDUCATION",
-    "eventCategory": "Tuomarikoulus",
-    "eventInstructors": []
-  },
-  {
     "eventId": 223442,
     "name": "SNL Kuntonyrkkeilyn ohjaajakurssi KNOK su 12.10.2025, MIKKELI",
     "sports": [
