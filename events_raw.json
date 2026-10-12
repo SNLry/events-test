@@ -1,34 +1,5 @@
 [
   {
-    "eventId": 223442,
-    "name": "SNL Kuntonyrkkeilyn ohjaajakurssi KNOK su 12.10.2025, MIKKELI",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-10-12T00:00:00.000Z",
-    "endDateTime": "2025-10-12T00:00:00.000Z",
-    "registrationStartDateTime": "2025-08-11T14:30:00.000Z",
-    "registrationEndDateTime": "2025-10-05T23:59:00.000Z",
-    "currentAttendeeCount": 8,
-    "maxAttendeeCount": 0,
-    "imageUrl": "https://suomisport-images.imgix.net/event/8f7e3be5-a401-439f-9b97-1ba8250f1beb_1754911686861?auto=compress%2Credeye%2Cformat&h=450&w=800&s=27efe3f07226f35307216f2c26d88ecb",
-    "locationAddress": "Suur-Savonkatu, 50100 Mikkeli, Suomi",
-    "locationDescription": "Mikkelin Nyrkkeilijöiden sali",
-    "locationCoordinates": {
-      "lat": 61.6856166,
-      "lon": 27.2595029
-    },
-    "uuid": "61a2ce33-15ff-4bd1-946c-57d7b3cadbb4",
-    "priceInCents": 12000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "EDUCATION",
-    "eventCategory": "KNOK",
-    "eventInstructors": []
-  },
-  {
     "eventId": 224688,
     "name": "SNL Kuntonyrkkeilyn ohjaajakurssi KNOK la 18.10.2025, TURKU",
     "sports": [
