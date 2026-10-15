@@ -1035,7 +1035,7 @@
   },
   {
     "eventId": 243503,
-    "name": "SNL Nepsy-haasteet ja nyrkkeilyn ohjaaminen kurssi su 1.11.2026, Lahti",
+    "name": "SNL Nepsy-haasteet ja nyrkkeilyn ohjaaminen kurssi su 1.11.2026, Lahti PERUTTU",
     "sports": [
       "Nyrkkeily"
     ],
@@ -1044,7 +1044,7 @@
     "startDateTime": "2026-11-01T00:00:00.000Z",
     "endDateTime": "2026-11-01T00:00:00.000Z",
     "registrationStartDateTime": "2026-06-08T11:00:00.000Z",
-    "registrationEndDateTime": "2026-10-25T23:59:00.000Z",
+    "registrationEndDateTime": "2026-10-15T08:00:00.000Z",
     "currentAttendeeCount": 0,
     "maxAttendeeCount": 0,
     "locationAddress": "Tunnelikatu 2, 15140 Lahti, Suomi",
