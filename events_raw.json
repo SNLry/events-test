@@ -1,34 +1,5 @@
 [
   {
-    "eventId": 224688,
-    "name": "SNL Kuntonyrkkeilyn ohjaajakurssi KNOK la 18.10.2025, TURKU",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-10-18T00:00:00.000Z",
-    "endDateTime": "2025-10-18T00:00:00.000Z",
-    "registrationStartDateTime": "2025-08-20T12:00:00.000Z",
-    "registrationEndDateTime": "2025-10-16T14:00:00.000Z",
-    "currentAttendeeCount": 11,
-    "maxAttendeeCount": 0,
-    "imageUrl": "https://suomisport-images.imgix.net/event/dabbb4f1-ee4c-43f7-8043-c3f207c59f02_1755680956440?auto=compress%2Credeye%2Cformat&h=450&w=800&s=fee6e10bef6e1d42a050c2294776b37f",
-    "locationAddress": "Vanha Hämeentie 29, 20540 Turku, Suomi",
-    "locationDescription": "Turun Jyryn sali",
-    "locationCoordinates": {
-      "lat": 60.45530600000001,
-      "lon": 22.3056623
-    },
-    "uuid": "c071a9b0-6834-45d5-b67b-fa98f34c7638",
-    "priceInCents": 12000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "EDUCATION",
-    "eventCategory": "KNOK",
-    "eventInstructors": []
-  },
-  {
     "eventId": 228164,
     "name": "SNL Leiripäivä aloitteleville nyrkkeilijöille 19.10.2025 Kotka",
     "sports": [
