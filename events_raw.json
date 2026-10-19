@@ -1,33 +1,5 @@
 [
   {
-    "eventId": 228164,
-    "name": "SNL Leiripäivä aloitteleville nyrkkeilijöille 19.10.2025 Kotka",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-10-19T11:00:00.000Z",
-    "endDateTime": "2025-10-19T18:00:00.000Z",
-    "registrationStartDateTime": "2025-10-07T15:00:00.000Z",
-    "registrationEndDateTime": "2025-10-17T12:00:00.000Z",
-    "currentAttendeeCount": 11,
-    "maxAttendeeCount": 30,
-    "locationAddress": "Mussalontie 428, 48310 Kotka, Suomi",
-    "locationDescription": "Kotkan Voimailijoiden sali",
-    "locationCoordinates": {
-      "lat": 60.46409479999999,
-      "lon": 26.8790235
-    },
-    "uuid": "bf2b79cf-5a2e-4224-8970-a6563f053f00",
-    "priceInCents": 2000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "SPORTS",
-    "eventCategory": "leiri",
-    "eventInstructors": []
-  },
-  {
     "eventId": 228292,
     "name": "SNL Nepsy-haasteet ja nyrkkeilyn ohjaaminen kurssi 15.11.2025, JÄRVENPÄÄ",
     "sports": [
