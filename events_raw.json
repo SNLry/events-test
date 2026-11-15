@@ -1,34 +1,5 @@
 [
   {
-    "eventId": 228292,
-    "name": "SNL Nepsy-haasteet ja nyrkkeilyn ohjaaminen kurssi 15.11.2025, JÄRVENPÄÄ",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-11-15T11:00:00.000Z",
-    "endDateTime": "2025-11-15T15:00:00.000Z",
-    "registrationStartDateTime": "2025-10-09T12:30:00.000Z",
-    "registrationEndDateTime": "2025-11-14T12:00:00.000Z",
-    "currentAttendeeCount": 17,
-    "maxAttendeeCount": 0,
-    "imageUrl": "https://suomisport-images.imgix.net/event/0845a7f4-5a28-4d34-a70d-91d81076c627_1760002636345?auto=compress%2Credeye%2Cformat&h=450&w=800&s=223a58a59006daf8910fa363b0ffc832",
-    "locationAddress": "Emalitehtaankatu 2, 04410 Järvenpää, Suomi",
-    "locationDescription": "Oiva Boxing sali",
-    "locationCoordinates": {
-      "lat": 60.4769269,
-      "lon": 25.087726
-    },
-    "uuid": "5cb24901-bc2c-4e49-a7ed-93fe70237443",
-    "priceInCents": 3000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "EDUCATION",
-    "eventCategory": "KNOK",
-    "eventInstructors": []
-  },
-  {
     "eventId": 224690,
     "name": "SNL Vilperi-Box ohjaajakoulutus 16.11.2025, MIKKELI",
     "sports": [
