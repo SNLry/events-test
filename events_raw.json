@@ -1,34 +1,5 @@
 [
   {
-    "eventId": 224690,
-    "name": "SNL Vilperi-Box ohjaajakoulutus 16.11.2025, MIKKELI",
-    "sports": [
-      "Nyrkkeily"
-    ],
-    "organizerId": 5472,
-    "organizerName": "Suomen Nyrkkeilyliitto ry",
-    "startDateTime": "2025-11-16T00:00:00.000Z",
-    "endDateTime": "2025-11-16T00:00:00.000Z",
-    "registrationStartDateTime": "2025-08-20T12:00:00.000Z",
-    "registrationEndDateTime": "2025-11-11T12:00:00.000Z",
-    "currentAttendeeCount": 7,
-    "maxAttendeeCount": 0,
-    "imageUrl": "https://suomisport-images.imgix.net/event/75260b1d-8e81-44ab-8f46-ceadf626487e_1755681262626?auto=compress%2Credeye%2Cformat&h=450&w=800&s=000a17d79da239d2b66eb2e6cc0d92f3",
-    "locationAddress": "Suur-Savonkatu 1-3, 50100 Mikkeli, Suomi",
-    "locationDescription": "Mikkelin Nyrkkeilijöiden sali",
-    "locationCoordinates": {
-      "lat": 61.68665399999999,
-      "lon": 27.2644456
-    },
-    "uuid": "e84c7edf-7616-4dd5-ac6b-f0e27f1f67c0",
-    "priceInCents": 6000,
-    "productDiscounts": [],
-    "tags": [],
-    "purpose": "EDUCATION",
-    "eventCategory": "Vilperi",
-    "eventInstructors": []
-  },
-  {
     "eventId": 229591,
     "name": "SNL U19, U17, U15, ja U13 nuorten loppiaisleiri 1.-3.1.2026, Solvalla",
     "sports": [
