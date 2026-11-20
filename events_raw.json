@@ -945,5 +945,33 @@
     "purpose": "SPORTS",
     "eventCategory": "Nepsy",
     "eventInstructors": []
+  },
+  {
+    "eventId": 253364,
+    "name": "SNL U19, U17, U15, ja U13 nuorten loppiaisleiri 4.-6.1.2027, Solvalla",
+    "sports": [
+      "Nyrkkeily"
+    ],
+    "organizerId": 5472,
+    "organizerName": "Suomen Nyrkkeilyliitto ry",
+    "startDateTime": "2027-01-04T00:00:00.000Z",
+    "endDateTime": "2027-01-06T00:00:00.000Z",
+    "registrationStartDateTime": "2026-11-20T09:00:00.000Z",
+    "registrationEndDateTime": "2026-12-16T23:59:00.000Z",
+    "currentAttendeeCount": 4,
+    "maxAttendeeCount": 40,
+    "locationAddress": "Nuuksiontie 82, 02820 Espoo, Suomi",
+    "locationDescription": "Solvallan Urheiluopisto",
+    "locationCoordinates": {
+      "lat": 60.2932372,
+      "lon": 24.5580414
+    },
+    "uuid": "4657aae0-cbb1-4bee-b07c-9b30ad92ff4e",
+    "priceInCents": 19500,
+    "productDiscounts": [],
+    "tags": [],
+    "purpose": "SPORTS",
+    "eventCategory": "leiri",
+    "eventInstructors": []
   }
 ]
